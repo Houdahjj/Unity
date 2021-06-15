@@ -1,0 +1,1282 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'fr' Physical Memory: 12173 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Hoda/AdventureGame
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57269
+Successfully changed project path to: C:/Users/Hoda/AdventureGame
+C:/Users/Hoda/AdventureGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 67.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Hoda/AdventureGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0xfdf)
+    Vendor:   
+    VRAM:     2020 MB
+    Driver:   23.21.13.8857
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56528
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003078 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.823 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001233 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.002 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.50 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.7 MB.
+System memory in use after: 108.8 MB.
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 3.756000 ms (FindLiveObjects: 0.308000 ms CreateObjectMapping: 0.284900 ms MarkObjects: 2.750800 ms  DeleteObjects: 0.411100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/playback.jpg
+  artifactKey: Guid(468e31a66e78f404ea63a10194755206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playback.jpg using Guid(468e31a66e78f404ea63a10194755206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109d6e334d95afafb490893a19397687') in 0.123603 seconds
+  Import took 0.167648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.408003 seconds.
+  path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/chandellier.mat
+  artifactKey: Guid(07f10b3edb1500149ac678d91de17a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/chandellier.mat using Guid(07f10b3edb1500149ac678d91de17a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52cd85d3026af8aadd3c6a470d55d328') in 0.239983 seconds
+  Import took 0.282181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.220628 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_AFS.mat
+  artifactKey: Guid(4123024ef4e58b446bc6eebae6957516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/Coconut_Palm_Tree_AFS.mat using Guid(4123024ef4e58b446bc6eebae6957516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77053a1c976a7cf786218bbfd56556f') in 0.186354 seconds
+  Import took 0.190782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark1.mat
+  artifactKey: Guid(f1821e7f65ffbc44987652168539f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark1.mat using Guid(f1821e7f65ffbc44987652168539f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e04ef23f68e7013c0d5fdbc93869371') in 0.487360 seconds
+  Import took 0.504451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark2.mat
+  artifactKey: Guid(2bdcdb310dae9164187a5125ee7e4068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Bark2.mat using Guid(2bdcdb310dae9164187a5125ee7e4068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aedc0551eedb1b68a08c53b87c9a38b3') in 0.181842 seconds
+  Import took 0.199288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.318008 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Frond_Stem.mat
+  artifactKey: Guid(811fc76a48a2e4b4990e1c9997697274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Frond_Stem.mat using Guid(811fc76a48a2e4b4990e1c9997697274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464b3204683ea079d1637d2dd86cf037') in 0.272546 seconds
+  Import took 0.324531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70f92f3ac9d5cb8aedcee45ba6edffb') in 0.207138 seconds
+  Import took 0.239831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf1.mat
+  artifactKey: Guid(4b5f9e711712e6d4e970e6b690cc30cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf1.mat using Guid(4b5f9e711712e6d4e970e6b690cc30cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a4e05ecd71470a688a439df9ef1b26') in 0.638348 seconds
+  Import took 0.683504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/MONQO Floral Golden Jar/Materials/normal_texture_fase.mat
+  artifactKey: Guid(16c582e7029fa79409763b55ee0421f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MONQO Floral Golden Jar/Materials/normal_texture_fase.mat using Guid(16c582e7029fa79409763b55ee0421f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65464c26022f25b86e9b6953fb647e1') in 0.172306 seconds
+  Import took 0.234477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49275a6f0a05fb6fd0893f0c6fe8bd83') in 0.144189 seconds
+  Import took 0.214998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/leaf.mat
+  artifactKey: Guid(6f16583b3cb065f48b487527b1fa5f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/leaf.mat using Guid(6f16583b3cb065f48b487527b1fa5f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b783273b3c31a9a142669f7ee8422e1') in 0.048632 seconds
+  Import took 0.063191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd7872455b175c1dd9d5ae5a711fd74') in 0.044318 seconds
+  Import took 0.069115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf2.mat
+  artifactKey: Guid(08c6252b92ffc4344a02ee1d5dc8e603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Materials/Parts/Coconut_Palm_Tree_Leaf2.mat using Guid(08c6252b92ffc4344a02ee1d5dc8e603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2322b9bacd2d7a02b76ffe52701ff8d0') in 0.425098 seconds
+  Import took 0.466896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7b1e1521afdd172079af04aa10e8dd') in 0.092632 seconds
+  Import took 0.121631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.753285 seconds.
+  path: Assets/Hand-Painted Fountain/Meshes/Meshes_Fountain/Materials/tex_Fountain.mat
+  artifactKey: Guid(4c359f770ea53294d9a2ba0ce490b25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand-Painted Fountain/Meshes/Meshes_Fountain/Materials/tex_Fountain.mat using Guid(4c359f770ea53294d9a2ba0ce490b25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc19704b0c1fc02993b0c12b09a12fc4') in 0.085876 seconds
+  Import took 0.109886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.548248 seconds.
+  path: Assets/kawetofe_Assets/medievalTentSmall/Materials/TentTexture.mat
+  artifactKey: Guid(74273997ef6d48847ac95505c630e808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kawetofe_Assets/medievalTentSmall/Materials/TentTexture.mat using Guid(74273997ef6d48847ac95505c630e808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6bb59e8be74395eaa9bc2b1e1b018c1') in 0.050316 seconds
+  Import took 0.054339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.886643 seconds.
+  path: Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/StormySky.mat
+  artifactKey: Guid(e44c9ba58f81a8242ad991895056d245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/StormySky.mat using Guid(e44c9ba58f81a8242ad991895056d245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895bf553a38c0e622e47d5ff14b0b8bc') in 0.524495 seconds
+  Import took 0.540583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.169951 seconds.
+  path: Assets/Oriental Structure Pack/DataSource/Materials/StatueD_mt1.mat
+  artifactKey: Guid(d7a38dc621af22744b7bab1398125581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oriental Structure Pack/DataSource/Materials/StatueD_mt1.mat using Guid(d7a38dc621af22744b7bab1398125581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b6b5e71b387c6e2cb5f2fda93580fe') in 0.196959 seconds
+  Import took 0.201325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.150946 seconds.
+  path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/sarcophagi.mat
+  artifactKey: Guid(4a30f82a58a24a941a5d10685a2acf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/sarcophagi.mat using Guid(4a30f82a58a24a941a5d10685a2acf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa402e704d3ecb657ec5be5434b8506') in 0.683345 seconds
+  Import took 0.708621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000813 seconds.
+  path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/sarcophagi.mat
+  artifactKey: Guid(4a30f82a58a24a941a5d10685a2acf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/sarcophagi.mat using Guid(4a30f82a58a24a941a5d10685a2acf3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fa402e704d3ecb657ec5be5434b8506') in 0.036828 seconds
+  Import took 0.041434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.856003 seconds.
+  path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/roof.mat
+  artifactKey: Guid(264223b08861d0d4e9515c2270cb83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/roof.mat using Guid(264223b08861d0d4e9515c2270cb83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8058981f17cb79321cd2d318beaa02ab') in 0.619549 seconds
+  Import took 0.649111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002293 seconds.
+  path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/roof.mat
+  artifactKey: Guid(264223b08861d0d4e9515c2270cb83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crypt Dungeon Environment/Rooms/Crypt/Materials/roof.mat using Guid(264223b08861d0d4e9515c2270cb83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8058981f17cb79321cd2d318beaa02ab') in 0.034728 seconds
+  Import took 0.040328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.511742 seconds.
+  path: Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_winter_material.mat
+  artifactKey: Guid(468af2196fae4d14387811069eb11602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_winter_material.mat using Guid(468af2196fae4d14387811069eb11602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bef26d0cca1b6d167c079a2d7ee8abb') in 0.298608 seconds
+  Import took 0.302702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_mossy_material.mat
+  artifactKey: Guid(363f55944cf5d3d4e8a9ed9b15f5162e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_mossy_material.mat using Guid(363f55944cf5d3d4e8a9ed9b15f5162e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e653f955a365aa73115e261d97f150ae') in 0.345217 seconds
+  Import took 0.361545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.125412 seconds.
+  path: Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_grey_material.mat
+  artifactKey: Guid(7762755c49fa64b42897f2c28599da84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_grey_material.mat using Guid(7762755c49fa64b42897f2c28599da84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da5a74e8cebd1415e84d7e8bae641d7') in 0.298879 seconds
+  Import took 0.304143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_desert_material.mat
+  artifactKey: Guid(c31a9d6a04ef6564f95b30356a7379ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_05/Materials/Rock_05_desert_material.mat using Guid(c31a9d6a04ef6564f95b30356a7379ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50798bd521fb5c90bc873db557b7afc0') in 0.347903 seconds
+  Import took 0.373343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/4_Type_Rocks/Rock_04/Materials/Rock_04_mossy_material.mat
+  artifactKey: Guid(5ed33228ea30d4f41b6e5c09fa2256a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_04/Materials/Rock_04_mossy_material.mat using Guid(5ed33228ea30d4f41b6e5c09fa2256a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca125897bc5faf6cbb92f7ba896a8a32') in 0.275448 seconds
+  Import took 0.302987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/4_Type_Rocks/Rock_04/Materials/Rock_04_grey_material.mat
+  artifactKey: Guid(25d280f4d60d718419fa110c44d386c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_04/Materials/Rock_04_grey_material.mat using Guid(25d280f4d60d718419fa110c44d386c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f410b65050e8c4678216132b6eb6390e') in 0.256557 seconds
+  Import took 0.260087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090052 seconds.
+  path: Assets/4_Type_Rocks/Rock_04/Materials/Rock_04_desert_material.mat
+  artifactKey: Guid(db2c1879c3c7b5e42a76b99b7fa2248f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_04/Materials/Rock_04_desert_material.mat using Guid(db2c1879c3c7b5e42a76b99b7fa2248f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee6e993830015abda761b0f77ce39807') in 0.237223 seconds
+  Import took 0.241422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_winter_material.mat
+  artifactKey: Guid(5aa357ce682455d4fa374e29754ce34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_winter_material.mat using Guid(5aa357ce682455d4fa374e29754ce34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09514bf00bd159289b26696304d07ddf') in 0.375992 seconds
+  Import took 0.403703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_mossy_material.mat
+  artifactKey: Guid(27a79cc4b7c41bc4ea63308ef31fc443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_mossy_material.mat using Guid(27a79cc4b7c41bc4ea63308ef31fc443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce823f5ef5c25ec108dcbe06c38dba8') in 0.297934 seconds
+  Import took 0.321365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_grey_material.mat
+  artifactKey: Guid(33e534c4dadf84a499ca81b2bdfa1863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_grey_material.mat using Guid(33e534c4dadf84a499ca81b2bdfa1863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8a3cc7818d1db54724cc6ec863d878') in 0.339399 seconds
+  Import took 0.374643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_desert_material.mat
+  artifactKey: Guid(bcf7410b3efb50c4ea65514ea261609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_03/Materials/Rock_03_desert_material.mat using Guid(bcf7410b3efb50c4ea65514ea261609c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2513e574613df3858befdfde83120c') in 0.352600 seconds
+  Import took 0.386873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_winter_material.mat
+  artifactKey: Guid(ef4c2f748df50af479610909eebb957c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_winter_material.mat using Guid(ef4c2f748df50af479610909eebb957c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b474a4b269ed7d966ec638b2cad0713f') in 0.323045 seconds
+  Import took 0.326573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_desert_material.mat
+  artifactKey: Guid(a2028b822ab89f946ba5965c78da9037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_desert_material.mat using Guid(a2028b822ab89f946ba5965c78da9037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc5fe23b2dcfd99268adc69672967c9') in 0.354747 seconds
+  Import took 0.385830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_grey_material.mat
+  artifactKey: Guid(0957aca0a862e0448ac11c68cf6ddbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_grey_material.mat using Guid(0957aca0a862e0448ac11c68cf6ddbb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '732f6e202d4d05febceba8d74bbeb369') in 0.279172 seconds
+  Import took 0.431769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_mossy_material.mat
+  artifactKey: Guid(edef0379455aeaf43b3fca8393a11e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4_Type_Rocks/Rock_02/Materials/Rock_02_mossy_material.mat using Guid(edef0379455aeaf43b3fca8393a11e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6556d64126d54d650baa99cba23c2de0') in 0.315399 seconds
+  Import took 0.385415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.546717 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures
+  artifactKey: Guid(f4b456e080e154b48a23137d350a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures using Guid(f4b456e080e154b48a23137d350a72ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53f22ac4ca83b90aeafd4954308211c') in 0.008423 seconds
+  Import took 0.055827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.878653 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_01_Diffuse.tga
+  artifactKey: Guid(580463794dc1de446a571eb88be93bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_01_Diffuse.tga using Guid(580463794dc1de446a571eb88be93bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52dbbce403d5cab1e484a77dd391cacc') in 0.024717 seconds
+  Import took 0.028843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Diffuse.tga
+  artifactKey: Guid(2ad5769c41feb7749a077e020ed56acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Diffuse.tga using Guid(2ad5769c41feb7749a077e020ed56acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49bb0781cf401b0f98ec92a562ffc302') in 0.063378 seconds
+  Import took 0.070208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Emission.tga
+  artifactKey: Guid(1084372875829164882c05b7f7f0714f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Emission.tga using Guid(1084372875829164882c05b7f7f0714f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d91136140e06b97e86ff6420ae7e71') in 0.023687 seconds
+  Import took 0.027759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.1 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 3.738200 ms (FindLiveObjects: 0.281300 ms CreateObjectMapping: 0.172900 ms MarkObjects: 2.904200 ms  DeleteObjects: 0.377500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.979700 seconds.
+  path: Assets/Play/Materials/playback.mat
+  artifactKey: Guid(2ef6685aba9d4c540b0f3dbe805e101c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Play/Materials/playback.mat using Guid(2ef6685aba9d4c540b0f3dbe805e101c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f655f0c7c5fce5fb44e2cadbc6b59c') in 0.075876 seconds
+  Import took 0.080421 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 3.268700 ms (FindLiveObjects: 0.235100 ms CreateObjectMapping: 0.143200 ms MarkObjects: 2.676600 ms  DeleteObjects: 0.212600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.305 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 5.499200 ms (FindLiveObjects: 0.333600 ms CreateObjectMapping: 0.185800 ms MarkObjects: 4.735000 ms  DeleteObjects: 0.242700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001334 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 3.748300 ms (FindLiveObjects: 0.273000 ms CreateObjectMapping: 0.170100 ms MarkObjects: 3.052100 ms  DeleteObjects: 0.251300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34304.706339 seconds.
+  path: Assets/Play/Materials
+  artifactKey: Guid(256e881d45e88de4a900de79ac2c6bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Play/Materials using Guid(256e881d45e88de4a900de79ac2c6bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7b8ef8b767f31b04cff4c90a6d8c6c') in 0.013510 seconds
+  Import took 0.048017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 439.755020 seconds.
+  path: Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/GoldenHorizon.mat
+  artifactKey: Guid(be3cee70e446812429a39665139ca805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/GoldenHorizon.mat using Guid(be3cee70e446812429a39665139ca805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea99232ee684a2c048c30b1fadb0e384') in 0.397661 seconds
+  Import took 0.427329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/MoodySunrise02.mat
+  artifactKey: Guid(21ba49afeb08a274b96688a3b29338ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/MoodySunrise02.mat using Guid(21ba49afeb08a274b96688a3b29338ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a996acfe66234c623a58c5427423535') in 0.410526 seconds
+  Import took 0.425907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 495.213364 seconds.
+  path: Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/PinkSunset01.mat
+  artifactKey: Guid(f1086d29384d0674d91a1a7ee0f7c2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/PinkSunset01.mat using Guid(f1086d29384d0674d91a1a7ee0f7c2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482b62b5253ceddf519830674ad466b9') in 0.290881 seconds
+  Import took 0.306155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005854 seconds.
+  path: Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/PinkSunset01.mat
+  artifactKey: Guid(f1086d29384d0674d91a1a7ee0f7c2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arkham Interactive/Toony/Skies/Cubemaps/Materials/PinkSunset01.mat using Guid(f1086d29384d0674d91a1a7ee0f7c2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482b62b5253ceddf519830674ad466b9') in 0.119175 seconds
+  Import took 0.123194 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.301 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 3.424300 ms (FindLiveObjects: 0.244000 ms CreateObjectMapping: 0.147800 ms MarkObjects: 2.810300 ms  DeleteObjects: 0.220600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001264 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.272 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.2 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 3.615400 ms (FindLiveObjects: 0.273500 ms CreateObjectMapping: 0.135500 ms MarkObjects: 2.953700 ms  DeleteObjects: 0.250500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.322 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.3 MB.
+System memory in use after: 108.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 5.081300 ms (FindLiveObjects: 0.408600 ms CreateObjectMapping: 0.173600 ms MarkObjects: 4.154300 ms  DeleteObjects: 0.342800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1054.604561 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_diffuse.psd
+  artifactKey: Guid(d1e9cd077ea79eb4baa8eecd14e9afb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_diffuse.psd using Guid(d1e9cd077ea79eb4baa8eecd14e9afb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f563104ae739a5e1a21e060db069f469') in 0.064179 seconds
+  Import took 0.074871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005072 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_diffuse.psd
+  artifactKey: Guid(d1e9cd077ea79eb4baa8eecd14e9afb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_diffuse.psd using Guid(d1e9cd077ea79eb4baa8eecd14e9afb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f563104ae739a5e1a21e060db069f469') in 0.014757 seconds
+  Import took 0.019620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.415632 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_normal.tif
+  artifactKey: Guid(dfb207cb03df38541a0a4559385db1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_normal.tif using Guid(dfb207cb03df38541a0a4559385db1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fc72a965c2903726fd3896afed0ec1') in 0.139557 seconds
+  Import took 0.143639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_diffuse.psd
+  artifactKey: Guid(89da037c7c492514f9e92f8d401be761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_diffuse.psd using Guid(89da037c7c492514f9e92f8d401be761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971cb1b56376edf6a59968c58b610949') in 0.017960 seconds
+  Import took 0.049943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_normal.tif
+  artifactKey: Guid(27be2962e4b2b2d4eb9362d2135f6331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_normal.tif using Guid(27be2962e4b2b2d4eb9362d2135f6331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4db3c2a378a5347e78721d3edeb8e30') in 0.015260 seconds
+  Import took 0.034487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_normal.tif
+  artifactKey: Guid(dfb207cb03df38541a0a4559385db1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark1_normal.tif using Guid(dfb207cb03df38541a0a4559385db1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fc72a965c2903726fd3896afed0ec1') in 0.014906 seconds
+  Import took 0.018725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_diffuse.psd
+  artifactKey: Guid(89da037c7c492514f9e92f8d401be761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_diffuse.psd using Guid(89da037c7c492514f9e92f8d401be761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971cb1b56376edf6a59968c58b610949') in 0.014389 seconds
+  Import took 0.030740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004595 seconds.
+  path: Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_normal.tif
+  artifactKey: Guid(27be2962e4b2b2d4eb9362d2135f6331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coconut Palm Tree Pack/Textures/Parts/Coconut_Palm_Bark2_normal.tif using Guid(27be2962e4b2b2d4eb9362d2135f6331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4db3c2a378a5347e78721d3edeb8e30') in 0.014349 seconds
+  Import took 0.019364 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001623 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.428 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.3 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 4.193100 ms (FindLiveObjects: 0.425300 ms CreateObjectMapping: 0.098700 ms MarkObjects: 3.242400 ms  DeleteObjects: 0.424300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.3 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 4.171300 ms (FindLiveObjects: 0.338400 ms CreateObjectMapping: 0.200900 ms MarkObjects: 3.400600 ms  DeleteObjects: 0.229700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001425 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.3 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2371.
+Total: 3.400400 ms (FindLiveObjects: 0.263100 ms CreateObjectMapping: 0.121500 ms MarkObjects: 2.780600 ms  DeleteObjects: 0.233300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001290 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.547 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.3 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2374.
+Total: 3.796200 ms (FindLiveObjects: 0.431800 ms CreateObjectMapping: 0.174500 ms MarkObjects: 2.934400 ms  DeleteObjects: 0.253500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.353 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2377.
+Total: 4.748100 ms (FindLiveObjects: 0.612900 ms CreateObjectMapping: 0.264800 ms MarkObjects: 3.587600 ms  DeleteObjects: 0.278300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001280 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 3.917600 ms (FindLiveObjects: 0.322800 ms CreateObjectMapping: 0.203600 ms MarkObjects: 3.144300 ms  DeleteObjects: 0.244700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001268 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2382.
+Total: 3.655600 ms (FindLiveObjects: 0.281300 ms CreateObjectMapping: 0.174200 ms MarkObjects: 2.930000 ms  DeleteObjects: 0.268800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4925.881021 seconds.
+  path: Assets/New Terrain 5.asset
+  artifactKey: Guid(40d9117f744360a49bf07066e112ac05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 5.asset using Guid(40d9117f744360a49bf07066e112ac05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e67920ddee734a677af691efc8fd53') in 0.084048 seconds
+  Import took 0.089555 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001263 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1747 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 3.497200 ms (FindLiveObjects: 0.263100 ms CreateObjectMapping: 0.156600 ms MarkObjects: 2.840000 ms  DeleteObjects: 0.235900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.323 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2388.
+Total: 3.561300 ms (FindLiveObjects: 0.288600 ms CreateObjectMapping: 0.158900 ms MarkObjects: 2.857500 ms  DeleteObjects: 0.254300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.939334 seconds.
+  path: Assets/MainMenu.cs
+  artifactKey: Guid(6858c92fc79772d42ab54eb59d5a0809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenu.cs using Guid(6858c92fc79772d42ab54eb59d5a0809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9612e1a724153f8bece4c71ebd9b04f6') in 0.019845 seconds
+  Import took 0.070185 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001808 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.407 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2391.
+Total: 5.608600 ms (FindLiveObjects: 0.519300 ms CreateObjectMapping: 0.221300 ms MarkObjects: 4.495100 ms  DeleteObjects: 0.370300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.491856 seconds.
+  path: Assets/MainMenu.cs
+  artifactKey: Guid(6858c92fc79772d42ab54eb59d5a0809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenu.cs using Guid(6858c92fc79772d42ab54eb59d5a0809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5358455189acb1f501cb13b5fe7a29f4') in 0.009219 seconds
+  Import took 0.037119 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001319 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.444 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2394.
+Total: 3.985000 ms (FindLiveObjects: 0.547000 ms CreateObjectMapping: 0.232700 ms MarkObjects: 2.961100 ms  DeleteObjects: 0.242300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.294 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2397.
+Total: 3.679100 ms (FindLiveObjects: 0.285200 ms CreateObjectMapping: 0.160500 ms MarkObjects: 3.002500 ms  DeleteObjects: 0.229200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.295 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 3.621700 ms (FindLiveObjects: 0.309800 ms CreateObjectMapping: 0.179600 ms MarkObjects: 2.888100 ms  DeleteObjects: 0.242900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.513 seconds
+Platform modules already initialized, skipping
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Shader Custom/UnlitShadow uses undefined Queue: 'Opaque'
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1748 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 3.546500 ms (FindLiveObjects: 0.268400 ms CreateObjectMapping: 0.168500 ms MarkObjects: 2.882300 ms  DeleteObjects: 0.225500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 804.162550 seconds.
+  path: Assets/Crypt Dungeon Environment/Rooms/Crypt/Scenes
+  artifactKey: Guid(6cd2912a97409934f882f14e155941cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crypt Dungeon Environment/Rooms/Crypt/Scenes using Guid(6cd2912a97409934f882f14e155941cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf32b089025fe7d83d8623e3dd107eb') in 0.045538 seconds
+  Import took 0.058187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.059214 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(83884284c99601744a47569b841e5f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(83884284c99601744a47569b841e5f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e0c5251abc44a6e2c328377e513f19') in 0.022437 seconds
+  Import took 0.104967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.384097 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142b34ad33308c3529faeb4c9f1f92a5') in 0.062235 seconds
+  Import took 0.070618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.832347 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3826c511fa877ea13e162b6329583f0') in 0.172685 seconds
+  Import took 0.195083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.017509 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c291ffe1680a5b682402e6b0e703c98f') in 0.061862 seconds
+  Import took 0.113938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 971.616348 seconds.
+  path: Assets/Toon Forest free set/scene
+  artifactKey: Guid(6bd16c669c0c55045baa109c860d848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Forest free set/scene using Guid(6bd16c669c0c55045baa109c860d848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783cab36ed113df8a63300b434202234') in 0.048028 seconds
+  Import took 0.066038 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
